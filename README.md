@@ -1,5 +1,7 @@
 # 📑 Tudo sobre Java, Spring Boot e POO com Java
 
+> 🚀 **Acesse o caderno interativo aqui:** [Link para o meu NotebookLM](https://notebooklm.google.com/notebook/079e55cb-0f30-4d1a-a654-bcfad0e8c3f2)
+
 ## 🎯 Contexto e Objetivos
 Este repositório é o resultado de um estudo aprofundado utilizando o **NotebookLM** como tutor inteligente. O projeto foca no ecossistema Java, abordando desde os fundamentos da Programação Orientada a Objetos até a construção de APIs robustas com Spring Boot.
 
